@@ -93,7 +93,7 @@ const View = ({char}) => {
     )
 }
 
-CharInfo.propTypes = { //Не обязательная хуйня!!! это минизамена TSу что бы тип данных был строгий
+CharInfo.propTypes = { 
     charId: PropTypes.number
 }
 
